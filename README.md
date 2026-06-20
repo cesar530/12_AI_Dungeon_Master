@@ -120,7 +120,7 @@ python ai_dungeon_master.py
 ```
 
 ## 📁 Estructura del Proyecto
-
+```
 12_AI_Dungeon_Master/
 ├── ai_dungeon_master.py  # Clase principal y lógica del generador
 ├── utils.py              # Funciones de utilidad y templates
@@ -129,6 +129,7 @@ python ai_dungeon_master.py
 ├── .gitignore           # Archivos ignorados por git
 ├── README.md            # Este archivo
 └── .env                 # Variables de entorno (crear manualmente)
+```
 
 ## 🎮 Ejemplos
 
@@ -205,20 +206,10 @@ dm = AIDungeonMaster(
 - **Fallback Inteligente**: Funciona sin LLM con contenido pre-generado
 - **Rich Output**: Visualización colorida en terminal
 
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas! Por favor:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
+```
 MIT License
 
 Copyright (c) 2026 César Adrián Delgado Díaz
@@ -240,12 +231,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 ## 👤 Autor
 
-- **César Adrián Delgado Díaz**
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](https://www.linkedin.com/in/cesar-delgado-diaz)
+- 👤 Autor : **César Adrián Delgado Díaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
 - 🐙 GitHub: [github.com/cesar530](https://github.com/cesar530)
 
 ---
