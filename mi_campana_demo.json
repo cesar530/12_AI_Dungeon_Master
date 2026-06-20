@@ -1,0 +1,192 @@
+{
+  "missions": [
+    {
+      "title": "Rescue the Village Elder from Werewolf",
+      "description": "The Knight has been captured by goblin and taken to their lair. Time is running out.",
+      "objective": "Find and rescue the Village Elder before it's too late.",
+      "reward": "Magic Staff",
+      "difficulty": "Medium",
+      "secondary_objectives": [
+        "Find hidden treasure",
+        "Rescue any prisoners",
+        "Discover the location's secrets"
+      ],
+      "estimated_duration": "2 sessions",
+      "key_npcs": [
+        "Wizard"
+      ],
+      "potential_twists": [
+        "The villain is not who they seem",
+        "An ally betrays the party",
+        "A greater threat emerges"
+      ],
+      "location": ""
+    },
+    {
+      "title": "The Enchanted Sword of Frozen Citadel",
+      "description": "Ancient legends speak of a forgotten crown hidden within Dragon's Lair. Many have sought it, but none have returned.",
+      "objective": "Venture into Volcanic Temple and retrieve the Crown.",
+      "reward": "500 gold coins",
+      "difficulty": "Medium",
+      "secondary_objectives": [
+        "Find hidden treasure",
+        "Rescue any prisoners",
+        "Discover the location's secrets"
+      ],
+      "estimated_duration": "3 sessions",
+      "key_npcs": [
+        "Knight"
+      ],
+      "potential_twists": [
+        "The villain is not who they seem",
+        "An ally betrays the party",
+        "A greater threat emerges"
+      ],
+      "location": ""
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Urguk Ironhide",
+      "enemy_type": "orc",
+      "hp": 49,
+      "attack": 17,
+      "defense": 9,
+      "abilities": [
+        "Battle Cry",
+        "Crushing Blow",
+        "Enrage"
+      ],
+      "weakness": "Strategy and coordination",
+      "description": "A fearsome orc that strikes fear into the hearts of adventurers.",
+      "lore": "Legends speak of this orc's dark origins.",
+      "tactics": "This creature prefers to flank its prey.",
+      "loot": [
+        "93 gold",
+        "Orc Trophy"
+      ],
+      "level": 5
+    },
+    {
+      "name": "Frostmaw",
+      "enemy_type": "dragon",
+      "hp": 256,
+      "attack": 61,
+      "defense": 35,
+      "abilities": [
+        "Fire Breath",
+        "Wing Gust",
+        "Terrifying Presence"
+      ],
+      "weakness": "The underbelly and magical weapons",
+      "description": "A fearsome dragon that strikes fear into the hearts of adventurers.",
+      "lore": "Legends speak of this dragon's dark origins.",
+      "tactics": "This creature prefers to ambush its prey.",
+      "loot": [
+        "80 gold",
+        "Dragon Trophy"
+      ],
+      "level": 10
+    },
+    {
+      "name": "Frostmaw",
+      "enemy_type": "dragon",
+      "hp": 176,
+      "attack": 41,
+      "defense": 25,
+      "abilities": [
+        "Fire Breath",
+        "Wing Gust",
+        "Terrifying Presence"
+      ],
+      "weakness": "The underbelly and magical weapons",
+      "description": "A fearsome dragon that strikes fear into the hearts of adventurers.",
+      "lore": "Legends speak of this dragon's dark origins.",
+      "tactics": "This creature prefers to charge its prey.",
+      "loot": [
+        "80 gold",
+        "Dragon Trophy"
+      ],
+      "level": 5
+    },
+    {
+      "name": "Azrael the Fallen",
+      "enemy_type": "demon",
+      "hp": 155,
+      "attack": 35,
+      "defense": 22,
+      "abilities": [
+        "Hellfire",
+        "Corruption",
+        "Shadow Step"
+      ],
+      "weakness": "Holy magic and sacred weapons",
+      "description": "A fearsome demon that strikes fear into the hearts of adventurers.",
+      "lore": "Legends speak of this demon's dark origins.",
+      "tactics": "This creature prefers to charge its prey.",
+      "loot": [
+        "64 gold",
+        "Demon Trophy"
+      ],
+      "level": 5
+    },
+    {
+      "name": "Ravenclaw",
+      "enemy_type": "werewolf",
+      "hp": 65,
+      "attack": 27,
+      "defense": 6,
+      "abilities": [
+        "Savage Bite",
+        "Pack Howl",
+        "Lunge"
+      ],
+      "weakness": "Silver weapons",
+      "description": "A fearsome werewolf that strikes fear into the hearts of adventurers.",
+      "lore": "Legends speak of this werewolf's dark origins.",
+      "tactics": "This creature prefers to ambush its prey.",
+      "loot": [
+        "99 gold",
+        "Werewolf Trophy"
+      ],
+      "level": 5
+    },
+    {
+      "name": "Stonehide",
+      "enemy_type": "troll",
+      "hp": 89,
+      "attack": 22,
+      "defense": 14,
+      "abilities": [
+        "Regeneration",
+        "Boulder Throw",
+        "Ground Slam"
+      ],
+      "weakness": "Fire and acid",
+      "description": "A fearsome troll that strikes fear into the hearts of adventurers.",
+      "lore": "Legends speak of this troll's dark origins.",
+      "tactics": "This creature prefers to charge its prey.",
+      "loot": [
+        "78 gold",
+        "Troll Trophy"
+      ],
+      "level": 5
+    }
+  ],
+  "narratives": [
+    "As you step through the hidden entrance, the air thickens with anticipation. The ancient dungeon's musty scent wafts up to greet you, like a morbid welcome mat. The flickering torches on the walls cast eerie shadows, making it seem as though the very stones themselves are watching your every move. You can't help but feel that you're being drawn into a tale of secrets and forgotten lore.\n\nAs you venture deeper into the dungeon's depths, the sound of dripping water echoes through the corridors, punctuated by the occasional creak of ancient stone. The silence between these sounds is oppressive, heavy with the weight of centuries of mystery. You can't shake the feeling that you're being led down a path of discovery, one that will unravel the very fabric of this forgotten place.\n\nTo your left, the cunning rogue's eyes gleam with an air of calculated curiosity, her gaze darting from one ancient tapestry to the next. The wise wizard stands beside her, his eyes closed in contemplation, as if communing with the very essence of the dungeon itself. And at your side, the brave paladin's hand rests reassuringly on the hilt of their sword, a symbol of steadfast courage in the face of the unknown. You can't help but feel that together, you're about to uncover secrets that have lain dormant for centuries. What will you find?",
+    "As you step into the heart of the ancient dragon's lair, the air thickens with anticipation. The stench of damp earth and decaying scales hangs heavy, like a miasma warning of the horrors to come. Before you lies the vast expanse of the cavern, its rough-hewn walls seeming to close in on you like a vise. And then, there it is: the dragon. Its eyes, two glinting gemstones of malevolent fury, pierce through the darkness like shafts of ice-cold fire.\n\nThe beast stirs, its massive body tensing as it awakens from its centuries-long slumber. The ground trembles beneath your feet as it rises to its full height, scales glinting like black diamonds in the faint light that filters down from above. You can feel the heat emanating from its body, a furnace-like warmth that seems to sear the air around you. The sound of scraping claws and heavy breathing fills your ears, a symphony of menace that sends a shiver down your spine.\n\nThe dragon's gaze fixes on you, its eyes burning with an ancient, unquenchable fury. You can almost feel its malevolent will, like a physical force pushing against you. Your heart pounds in your chest as you realize the gravity of the situation: you are but tiny, insignificant mortals, standing at the mercy of this monstrous creature. The air is heavy with tension, and the fate of the world hangs precariously in the balance. What will you do?",
+    "As you step into the newly revealed treasure chamber, the air is alive with an otherworldly energy. The soft, crystalline walls seem to hum with a gentle vibration, like the quiet thrumming of a harp string. The scent of damp earth and ancient secrets wafts through the air, teasing your senses and drawing you deeper into this mystical place. Above, the crystal formations above shimmer like a thousand tiny lanterns, casting an ethereal glow that seems to pulse with an inner light.\n\nAs you gaze upon the treasures scattered before you, your eyes drink in the wonders of this hidden sanctum. Glittering gemstones spill across the floor like a rainbow-hued tide, while ancient artifacts and relics glint in the soft light, their intricate details seeming to hold secrets of their own. The sound of gently lapping water echoes through the chamber, as if some hidden spring beneath your feet was whispering tales of ages past.\n\nBut it's not just the treasure that holds your attention - the very walls themselves seem imbued with a strange, mystical power. You can feel the weight of ancient knowledge and forgotten lore emanating from the crystals, like the whispers of the earth itself. As you stand there, bathed in this wondrous light, you can't help but wonder what secrets lie hidden within these crystalline walls, waiting to be uncovered by brave adventurers such as yourselves...",
+    "As you step out of the icy mist and onto the frozen citadel's windswept battlements, the weight of history settles upon you like a shroud. The air is thick with the stench of rotting ice and the distant tang of smoke from burning timber, carrying whispers of forgotten battles on its bitter breeze. You can feel the chill in your bones, a cold that seeps into your very marrow as the citadel's ancient stones seem to absorb the warmth from your skin.\n\nBefore you lies the frozen fortress, its towers and spires reaching toward the pale, wintry sky like skeletal fingers. The walls are breached, torn apart by some cataclysmic force that has left the once-majestic stronghold a shattered ruin. You can see the glint of ice-clogged arrow slits, the jagged edges of broken battlements, and the eerie silence that hangs over the abandoned halls like a pall. Your companions stand around you, their faces set in grim determination as they survey the desolate landscape. The wind howls mournfully through the citadel's broken gates, a keening cry that seems to echo your own uncertainty.\n\nAs you hesitate on the edge of this frozen precipice, the silence is shattered by the creaking of rusty hinges, the scuttling of unseen feet, and the muffled screams of the damned. The walls seem to shudder with malevolent life, as if some ancient evil stirs in the darkness, sensing your presence. Your companions stiffen, their eyes locked on the approaching shadows, ready to unleash hell upon whatever horrors emerge from the frozen depths. You feel a shiver run down your spine as you realize that this is only the beginning of your descent into the heart of madness, where death lurks in every shadow and terror reigns supreme.",
+    "As you step off the creaky wooden bridge and into the Cursed Swamp, the air thickens with anticipation. The murky waters lap lazily at your boots, releasing a noxious scent that makes your stomach churn. The trees surrounding you seem to lean in, their twisted branches like skeletal fingers reaching for you. The only sound is the soft lapping of the water and the distant call of some unseen bird, its melodic chirping punctuated by an undercurrent of menace.\n\nYour party's murmurs die down as you scan your surroundings, searching for any sign of what lies ahead. The mist-shrouded trees seem to blur together, making it impossible to discern friend from foe. Your senses are on high alert, straining to pick up even the faintest hint of movement or danger lurking just out of sight. As you squint into the gloom, the flickering sunlight filtering through the canopy above casts eerie shadows across the water, like grasping fingers trying to snatch you back.\n\nSuddenly, a twig snaps beneath an unseen foot, and the tension in the air becomes almost palpable. Your party's eyes lock onto yours, awaiting your lead as you prepare to face whatever horrors this cursed place has in store for you. The silence is oppressive, heavy with anticipation. Any moment now, something will emerge from the shadows..."
+  ],
+  "maps": [
+    "##################################################\n################....##############.........#######\n################..E.##############.........#######\n################....##############.........#######\n##########.................................#######\n##########.#####..C.#######.######...C.....#######\n########....####....#######.######.........#######\n########..C.######.########.######################\n########.E..######.########.######################\n########....######.########.######################\n##################.########.######################\n##################.########.######################\n##################.########.######################\n###########.....##.####........###################\n###########.....##.####........###################\n###########.E......####....@...####......#########\n###########.....#######........####......#########\n###########...........................>..#########\n###################################......#########\n##################################################",
+    "############################################################\n#####........###############################################\n#####....C...###############################################\n#####........###############.....#####....#####....#########\n#####............................#####....#####.C..#########\n#####.....E..###############.E...#####..>...............####\n#####........###############.....#####....#####.E..####.####\n#####........#################.#######....#####....####.####\n#########.####################.########################.####\n#########.####################.########################.####\n#########.####################.########################.####\n#########.############.........########################.####\n#########.############.........########################.####\n#########.############.........########################.####\n######....############.........########################.####\n######...................E.....########################.####\n######....############........#######......#########......##\n######..@.############........#######......#########......##\n######....############........#######....E.#########......##\n######..................................C.................##\n#####################################......#########......##\n#####################################......#########......##\n#####################################......#########......##\n####################################################......##\n############################################################",
+    "############################################################\n#################################....#######################\n#################.......#########....#######################\n####..............................E..#######################\n#......##########.......#########....#######################\n#......##########.......#########....#######################\n#......#############.##############.############..........##\n#....................##############.############.E........##\n#...E..#############.#####................................##\n#......#############.#####.########.############..........##\n##########....######.#####.########.#################.######\n##########....######.#####.########.#################.######\n##########..@.........................................######\n##########....######.#####.########.########################\n##########....######.#####.########.###########.......######\n####################.#####.########.###########.......######\n####################.##......###..........#####.......######\n####################.##......###......................######\n####################.##....C..........................######\n####################.................>....#####.......######\n################################..........##################\n################################..........##################\n################################..........##################\n############################################################\n############################################################",
+    "......................^......TT.........^.T...T.......................\n............T.............^..^..T...................^................T\n....................T........^....T....................T..............\n.^.....^~^.....T.T.........................................T.....T....\nT....~~~~~~~.T....................T...............................^...\n...~~~~~~~~~~~...T...^....^...T...T.T....T.......^.....T....^.........\n..~~~~~~~~~~~~~..^..~...........T.T...^..T...........^............T..T\n..~~~~~~~~~~~~~..~~~~~~~.....^....T.~........T......^.................\n.~~~~~~~~~~~~~~~~~~~~~~~~~T..T...~~~~~~~^.............................\n.~~~~~~~~~~~~~~~~~~~~~~~~~~^....~~~~~~~~~..TT.........................\n.~~~~~~~~~~~~~~~~~~~~~~~~~~.^..~~~~~~~~~~~.^...............T....^T....\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~..~~~~~~~~~~~~~................^..T^......\n.~~~~~~~~~~~~~~~~~~~~~~~~~~~..~~~~~~~~~~~~~........~..............T..^\n.~~~~~~~~~~~~~~~~~~~~~~~~~~~..~~~~~~~~~~~~~T..T.~~~~~~~.........T..T..\n.~~==~~~~~~==~=~~~==~~~===~~~~=~=~==~=~~~==~.T~=~~~~~~~~===..T.....==.\n===~~~~~===~~=~~==~~==~~~~=~==~=~~~~=~===~~=.==~~~~~=~~=~~...=====....\n..~~~===~~~~~~~=~~~~~~=~~~~=..~~~=~~~~~~~~~.=~~~====~==~~~.==...T.=..=\n...~~~~~~~~~~~~~~~~~~~~~~~~~..~~~~~~~~~~~~~.~~~~~~~~~~~~~~~T...T......\n.....~~~~~~~T.~~~~~~~~~~~~~....~~~~~~~~~~~..~~~~~~~~~~~~~~~T..^.....T.\n...^....~....T~~~~~~~~~~~~~.....~~~~~~~~~...~~~~~~~~~~~~~~~^..........\n...T...........~~~~~~~~~~~^....^.~~~~~~~T.T~~~~~~~~~~~~~~~~~...T......\n....T.....T.....T~~~~~~~.....T..TT..~.....^.~~~~~~~~~~~~~~~.....T.....\n..........T.....T...~...T.^.................~~~~~~~~~~~~~~~..........^\n.........^.....^............................~~~~~~~~~~~~~~~.....T.....\nT...T...TT.......^..T....^..^................~~~~~~~~~~~~~............\n...T.........^...........^...................~~~~~~~~~~~~~...T..T...T.\n.............T..TT....T.......................~~~~~~~~~~~...T.........\n..^T.......................^.....^..............~~~~~~~..^.^.....^...T\n.................^.........^.........T.............~...T.....T.....^..\n..........................^..............................T.^..........",
+    ".................T^.....^....^....................T...........T..^T^..\n............^...................T......................T..............\n......T.~.....T........^.....^...^..T..........^.................^....\n....^~~~~~~~..TT...T.............T.....T..^T..................T.......\n.T..~~~~~~~~~....T.........^.......T..TT......^..................^....\n....~~~~~~~~~.....^.....T......T.......^.....................^........\n..T.~~~~~~~~~..........T.^^T....T.^.....TT.............^............T.\n...~~~~~~~~~~~.^..................T...^...............................\n.T..~~~~~~~~~.....T^...^......T.........^...T.........................\n....~~~~~~~~~~.....^........T..^......T.T..T..................T...T...\n....~~~~~~~~~~~~~..........T.......^.T.T.............^......^........T\n.....~~~~~~~~~~~~~.............^.....^....................^T......^...\n........~~~~~~~~~~~....T...^...................^^.T.......^...........\n.......T.~~~~~~~~~~~............~...........T........~...........T.T..\n.=.....==~=~=~=~=~~=.=..==.=.~~~~~=~...=.T.==.....~=~~~~~.=..=..=..=..\n=.===....=~~~~~=~==~..==..=.==~===~~=...===..=.=.~~~~==~~=.==.=...=.=.\n...^.==..~~=~=~~~~~~=......~~~=~~~~=~==..^.^..=^===~=~~==~~.T..=.=...=\n...^.....~~~~~~~~~~~......~~~~~~~~~~~~~........~~~~~~~~~~~~~..T....T.^\n..........~~~~~~~~~~T..TT.~~~~~~~~~~~~~.T......~~~~~~~~~~~~~..........\n...^..^....~~~~~~~~~....T.~~~~~~~~~~~~~........~~~~~~~~~~~~~.......^..\n..T...^...^.~~~~~~~......~~~~~~~~~~~~~~~.....T~~~~~~~~~~~~~~~....^....\n.T.T...........~..^T..T...~~~~~~~~~~~~~T.......~~~~~~~~~~~~~..........\n.................T.T...^..~~~~~~~~~~~~~........~~~~~~~~~~~~~..........\nT.....T..T.......^.....T..~~~~~~~~~~~~~.^....^.~~~~~~~~~~~~~........T.\n..T^.....^.....^........^..~~~~~~~~~~~.....^....~~~~~~~~~~~...T.......\n...............^............~~~~~~~~~............~~~~~~~~~............\n......T...T.T...T.....^......~~~~~~~T.......^....^~~~~~~~.............\n.......^.........T...T.........^~........T^..........~..^.............\n....T.T......................................T.T..^............T......\n^........T..T....T....T...................T.^.T...^.......T.......^...",
+    "##############################\n##############.....###########\n##############.....###########\n##############..@....#########\n##############.....#.#########\n##############.....#.#########\n####################.#########\n####################.#########\n####################.#########\n##################.....#######\n##################.....#######\n##################..>..#######\n##################.....#######\n##############################\n##############################",
+    "##############################\n##############################\n##############################\n##############################\n##############################\n##########......###.......####\n##########......###.......####\n##########...@........>...####\n##########......###.......####\n##########......###.......####\n##############################\n##############################\n##############################\n##############################\n##############################"
+  ]
+}
